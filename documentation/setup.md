@@ -1,4 +1,4 @@
-# Nodejs Installation (MacBook)
+# Nodejs Installation (MacBook) using NVM
 
 ## Download the install script
 
